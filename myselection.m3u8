@@ -13,8 +13,6 @@ https://fl3.moveonjoy.com/CRAVE_2/index.m3u8
 https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" tvg-name="Lifetime East" group-title="Entertainment",Lifetime East
 https://fl3.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" tvg-name="Maverick Black Cinema (1080p)" group-title="Movies",Maverick Black Cinema (1080p)
-https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxHt9NC.png" tvg-name="TF1 HD (720p)" group-title="Entertainment",TF1 HD (720p)
 https://cachehsi1a.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" tvg-name="Wild TV (1080p)" group-title="Entertainment",Wild TV (1080p)
