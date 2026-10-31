@@ -7,10 +7,6 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u8N6uoj.png" tvg-name="France 24 French (1080p)" group-title="News",France 24 French (1080p)
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e1qJ5Bp.png" tvg-name="Crave 2" group-title="Movies",Crave 2
-https://fl3.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MyH3Q2p.png" tvg-name="Crave 4" group-title="Movies",Crave 4
-https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" tvg-name="Lifetime East" group-title="Entertainment",Lifetime East
 https://fl3.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxHt9NC.png" tvg-name="TF1 HD (720p)" group-title="Entertainment",TF1 HD (720p)
